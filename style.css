@@ -43,8 +43,8 @@ nav a:hover {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient(135deg, #1e3a8a, #2563eb);
-    color: white;
+    background: linear-gradient(135deg, #1e3c8d, #2161ec);
+    color: rgb(240, 235, 235);
     padding: 30px;
 }
 
@@ -60,7 +60,7 @@ nav a:hover {
 
 .btn {
     display: inline-block;
-    background: #60a5fa;
+    background: #60a4f7;
     color: #172554;
     padding: 13px 28px;
     border-radius: 8px;
